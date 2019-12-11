@@ -1,4 +1,4 @@
-# MattoMCLoading screen for FiveM
+# MC_Load is a loading screen for FiveM
 A bootstrap themed loading screen for FiveM users.
 
 if you wanna have a chat join my Discord server: https://discord.gg/WP4q95d
